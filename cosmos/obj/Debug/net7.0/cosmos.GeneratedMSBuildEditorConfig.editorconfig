@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cosmos
-build_property.ProjectDir = C:\AZ-204\demos\az204demos\cosmos\
+build_property.ProjectDir = c:\AZ-204\demos\az204demos\cosmos\
